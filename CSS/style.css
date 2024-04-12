@@ -298,7 +298,7 @@ footer{
 
 .footer-main .info_block h4::after{
     content: '';
-    background: url(resource/chevron-down.svg) no-repeat;
+    background: url(../resource/chevron-down.svg) no-repeat;
     width: 30px;
     height: 30px;
     position: absolute;
@@ -307,7 +307,7 @@ footer{
 
 .footer-main .info_block h4.active::after{
     content: '';
-    background: url(resource/chevron-up.svg) no-repeat;
+    background: url(../resource/chevron-up.svg) no-repeat;
     width: 30px;
     height: 30px;
     position: absolute;
@@ -336,7 +336,7 @@ footer{
 .footer-buttom .buttom{
     width: 36px;
     height: 26px;
-    background: url(resource/Up_white.svg) no-repeat;
+    background: url(../resource/Up_white.svg) no-repeat;
     background-position: center;
     background-size: 40%;
     width: 36px;
